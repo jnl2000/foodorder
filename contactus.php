@@ -166,7 +166,7 @@ function test_input($data) {
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <?php
 echo "<h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Your Input:</h2>";
-echo $name;
+echo $name; 
 echo "<br>";
 echo $email;
 echo "<br>";
@@ -178,11 +178,10 @@ echo $gender;
 ?>
 
       </td>
-  
   </th>
 </table>
 <div class="footer">
-  <p>Mind Unit Food Ordering System</p>
+  <p>Express Food Meal Restuarant</p>
 </div>
 </body>
 </html>
